@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "thepeakmod",
+	"version": "${version}",
+	"name": "thepeakmod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/thepeakmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.iroase.thepeakmod.Thepeakmod"
+		],
+		"fabric-datagen": [
+			"net.iroase.thepeakmod.ThepeakmodDataGenerator"
+		],
+		"client":[
+			"net.iroase.thepeakmod.ThepeakmodClient"
+]
+	},
+	"mixins": [
+		"thepeakmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
