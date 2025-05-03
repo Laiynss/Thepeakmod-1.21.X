@@ -3,5 +3,7 @@
   "item.thepeakmod.raw_pink_garnet": "Raw Pink Garnet",
 
   "block.thepeakmod.pink_garnet_block": "Block of Pink Garnet",
-  "block.thepeakmod.raw_pink_garnet_block": "Raw Block of Pink Garnet"
+  "block.thepeakmod.raw_pink_garnet_block": "Raw Block of Pink Garnet",
+
+  "itemgroup.Thepeakmod.pink_garnet": "Peak Ores"
 }
