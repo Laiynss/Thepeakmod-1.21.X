@@ -1,0 +1,10 @@
+{
+  "replace" : false,
+  "values": [
+    "thepeakmod:pink_garnet_deepslate_ore",
+    "thepeakmod:pink_garnet_block",
+    "thepeakmod:pink_garnet_ore",
+    "thepeakmod:raw_pink_garnet_block",
+    "thepeakmod:sloynor_fragment_block"
+  ]
+}

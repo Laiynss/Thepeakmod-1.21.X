@@ -1,7 +1,13 @@
 {
   "item.thepeakmod.pink_garnet": "Pink Garnet",
   "item.thepeakmod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.thepeakmod.sloynor_fragment": "Sloynor Fragment",
 
   "block.thepeakmod.pink_garnet_block": "Block of Pink Garnet",
-  "block.thepeakmod.raw_pink_garnet_block": "Raw Block of Pink Garnet"
+  "block.thepeakmod.raw_pink_garnet_block": "Raw Block of Pink Garnet",
+  "block.thepeakmod.sloynor_fragment_block": "Sloynor Fragment Block",
+  "block.thepeakmod.pink_garnet_deepslate_ore": "pink_garnet_deepslate_ore",
+  "block.thepeakmod.pink_garnet_ore": "pink_garnet_ore",
+
+  "itemgroup.Thepeakmod.pink_garnet": "Peak Ores"
 }

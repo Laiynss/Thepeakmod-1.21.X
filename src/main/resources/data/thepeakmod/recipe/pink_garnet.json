@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "thepeakmod:pink_garnet_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "thepeakmod:pink_garnet"
+  }
+}
