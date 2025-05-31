@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroups {
 
-    public static final ItemGroup PeakItems = Registry.register(
+    public static final ItemGroup PeakOres = Registry.register(
             Registries.ITEM_GROUP,
             Identifier.of(Thepeakmod.MOD_ID,"pink_garnet"),
             FabricItemGroup.builder().icon(() -> new ItemStack(ModItems.PINK_GARNET))
@@ -34,9 +34,6 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.PINK_GARNET_BLOCK);
                         entries.add(ModBlocks.RAW_PINK_GARNET_BLOCK);
-                        entries.add(ModBlocks.SLOYNOR_FRAGMENT_BLOCK);
-                        entries.add(ModBlocks.PINK_GARNET_ORE);
-                        entries.add(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
 
                     }).build());
 
